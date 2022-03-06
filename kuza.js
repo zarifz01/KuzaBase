@@ -82,11 +82,11 @@ const simple = require('./lib/simple.js')
 
     //--Setting--//
 
-let botname = '*_｢ KuzaBase 0.1 ｣ 冬_*' //NAMA BOT
+let botname = '*_｢botbeban 0.1 ｣ 冬_*' //NAMA BOT
 let lolkey = 'isi'
 let zekskey = 'NXRu7zmcmyWTn0YGNzIV0gTFgoP' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '*_｢ AbilGanz ✘ ｣_*' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let ownername = '*_｢ rif ✘ ｣_*' //NAMA OWNER
+let owner = '+1 (952) 522-3355' // NOMOR OWNER
 let symbol = '*☛*'
 let faketeks = `*_｢ KuzaBase 0.1 ｣ 冬_*` 
 
